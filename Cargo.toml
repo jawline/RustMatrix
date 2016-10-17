@@ -1,0 +1,4 @@
+[package]
+name = "rust_matrix"
+version = "0.0.1"
+authors = [ "Blake Loring <blake_l@parsed.uk>" ]
