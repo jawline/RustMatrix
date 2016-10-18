@@ -2,5 +2,5 @@
 name = "rust_basic_matrix"
 description = "A simple N*N Matrix data structure to help with constructing graphs"
 license = "MIT"
-version = "0.0.1"
+version = "0.0.2"
 authors = [ "Blake Loring <blake_l@parsed.uk>" ]
