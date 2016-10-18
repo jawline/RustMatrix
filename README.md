@@ -1,3 +1,3 @@
-#Genetix
+#Rust Matrix
 
-Play around with search heuristics
+Simple Rust matrix data structure for use in various projects
